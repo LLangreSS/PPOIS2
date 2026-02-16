@@ -1,0 +1,20 @@
+Pois2/
+|
+lab1
+│
+├── studio/
+│   ├── __init__.py
+│   ├── exceptions.py
+│   ├── movie_studio.py
+│   ├── people.py
+│   ├── production.py
+│   └── resources.py
+│
+├── tests/
+│   ├── test_movie_studio.py
+│   ├── test_people.py
+│   ├── test_production.py
+│   └── test_resources.py
+│
+├── main.py
+└── pyproject.toml

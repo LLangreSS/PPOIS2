@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+.venv/
+env/
+
+.coverage
+htmlcov/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+.idea/
+
+.vscode/
+
+.python-version
+build/
+dist/
+*.egg-info/
+
+*.log
+.DS_Store (для macOS)
