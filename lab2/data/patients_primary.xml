@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patients>
+  <patient>
+    <full_name>Белоусов Эрнест Владиленович</full_name>
+    <address>клх Котлас, ул. Кузнечная, д. 167 стр. 4/9, 410961</address>
+    <birth_date>1972-10-20</birth_date>
+    <appointment_date>2025-12-04</appointment_date>
+    <doctor_name>Врач Колобов А.Б.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>Ия Эльдаровна Мухина</full_name>
+    <address>г. Норильск, пр. Добролюбова, д. 150, 087391</address>
+    <birth_date>1959-06-28</birth_date>
+    <appointment_date>2025-06-22</appointment_date>
+    <doctor_name>Врач Кудряшов В.А.</doctor_name>
+    <conclusion>Острый бронхит, средней тяжести</conclusion>
+  </patient>
+  <patient>
+    <full_name>Константинов Эраст Гурьевич</full_name>
+    <address>д. Южно-Сахалинск, пр. Торговый, д. 4, 197342</address>
+    <birth_date>1970-01-28</birth_date>
+    <appointment_date>2026-01-23</appointment_date>
+    <doctor_name>Врач Вишнякова С.В.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Евдокия Степановна Андреева</full_name>
+    <address>с. Петропавловск-Камчатский, ш. Короленко, д. 98 стр. 515, 235412</address>
+    <birth_date>1995-06-30</birth_date>
+    <appointment_date>2026-02-13</appointment_date>
+    <doctor_name>Врач Шарапов М.А.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Гордей Вячеславович Носков</full_name>
+    <address>п. Костомукша, бул. Дальневосточный, д. 399 стр. 45, 307467</address>
+    <birth_date>1948-07-15</birth_date>
+    <appointment_date>2026-02-07</appointment_date>
+    <doctor_name>Врач Владимирова Е.И.</doctor_name>
+    <conclusion>Острый бронхит, средней тяжести</conclusion>
+  </patient>
+  <patient>
+    <full_name>Полина Алексеевна Носкова</full_name>
+    <address>ст. Быково (метеост.), ул. Пригородная, д. 3/7, 071840</address>
+    <birth_date>1967-12-11</birth_date>
+    <appointment_date>2026-01-08</appointment_date>
+    <doctor_name>Врач Виноградов И.А.</doctor_name>
+    <conclusion>Остеохондроз поясничного отдела</conclusion>
+  </patient>
+  <patient>
+    <full_name>Мечислав Аксёнович Марков</full_name>
+    <address>д. Усть-Джегута, пер. Смирнова, д. 50, 316663</address>
+    <birth_date>1980-04-25</birth_date>
+    <appointment_date>2026-02-09</appointment_date>
+    <doctor_name>Врач Зуева Г.А.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Гусева Зинаида Александровна</full_name>
+    <address>п. Оленек, пер. Украинский, д. 4, 722592</address>
+    <birth_date>1964-10-01</birth_date>
+    <appointment_date>2025-09-13</appointment_date>
+    <doctor_name>Врач Дементьева И.А.</doctor_name>
+    <conclusion>Здоров, противопоказаний нет</conclusion>
+  </patient>
+  <patient>
+    <full_name>Крюков Владилен Брониславович</full_name>
+    <address>к. Кетченеры, ул. Стахановская, д. 337, 118776</address>
+    <birth_date>1974-02-04</birth_date>
+    <appointment_date>2025-07-07</appointment_date>
+    <doctor_name>Врач Логинов О.А.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Воронцова Валентина Александровна</full_name>
+    <address>с. Мыс Шмидта, ул. Щербакова, д. 6 стр. 9/4, 063846</address>
+    <birth_date>1979-06-08</birth_date>
+    <appointment_date>2025-08-20</appointment_date>
+    <doctor_name>Врач Казакова Я.В.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>Дмитриев Всеслав Венедиктович</full_name>
+    <address>ст. Карабулак, наб. Просторная, д. 638 к. 2, 682062</address>
+    <birth_date>2007-12-14</birth_date>
+    <appointment_date>2025-12-12</appointment_date>
+    <doctor_name>Врач Юдина С.А.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Анастасия Ниловна Полякова</full_name>
+    <address>ст. Новый Уренгой, ш. Аэродромное, д. 4/3 стр. 6, 070896</address>
+    <birth_date>1960-01-14</birth_date>
+    <appointment_date>2025-08-14</appointment_date>
+    <doctor_name>Врач Щукин Ф.Х.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>Зиновьев Егор Аксёнович</full_name>
+    <address>к. Псков, пр. Медицинский, д. 41 к. 7, 527704</address>
+    <birth_date>1991-08-31</birth_date>
+    <appointment_date>2025-05-27</appointment_date>
+    <doctor_name>Врач Белякова И.А.</doctor_name>
+    <conclusion>Остеохондроз поясничного отдела</conclusion>
+  </patient>
+  <patient>
+    <full_name>Гущина Тамара Владимировна</full_name>
+    <address>клх Беслан, пер. Рязанский, д. 14, 344267</address>
+    <birth_date>1950-03-07</birth_date>
+    <appointment_date>2025-12-09</appointment_date>
+    <doctor_name>Врач Хохлов М.Д.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Ладислав Власович Шашков</full_name>
+    <address>г. Кудымкар, наб. Социалистическая, д. 5, 775834</address>
+    <birth_date>1958-10-20</birth_date>
+    <appointment_date>2025-06-09</appointment_date>
+    <doctor_name>Врач Дроздова М.Х.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Кононова Таисия Викторовна</full_name>
+    <address>к. Льгов, ул. Ясная, д. 8/7 стр. 7, 530002</address>
+    <birth_date>1956-02-13</birth_date>
+    <appointment_date>2025-05-20</appointment_date>
+    <doctor_name>Врач Виноградова А.Т.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>Журавлев Федот Захарьевич</full_name>
+    <address>к. Усть-Ордынский, бул. Славянский, д. 597, 374906</address>
+    <birth_date>1944-12-03</birth_date>
+    <appointment_date>2025-05-07</appointment_date>
+    <doctor_name>Врач Панфилова С.Д.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Сигизмунд Аверьянович Молчанов</full_name>
+    <address>с. Березники, наб. Рылеева, д. 210 к. 14, 731420</address>
+    <birth_date>1969-02-28</birth_date>
+    <appointment_date>2026-01-09</appointment_date>
+    <doctor_name>Врач Дмитриев Б.Ж.</doctor_name>
+    <conclusion>Остеохондроз поясничного отдела</conclusion>
+  </patient>
+  <patient>
+    <full_name>Колесников Модест Георгиевич</full_name>
+    <address>г. Королев, пер. Верхний, д. 57 к. 53, 630254</address>
+    <birth_date>1967-03-20</birth_date>
+    <appointment_date>2025-04-12</appointment_date>
+    <doctor_name>Врач Никифоров О.Ф.</doctor_name>
+    <conclusion>Здоров, противопоказаний нет</conclusion>
+  </patient>
+  <patient>
+    <full_name>Ксения Юльевна Устинова</full_name>
+    <address>д. Тосно, алл. Фестивальная, д. 8 к. 4, 188380</address>
+    <birth_date>1979-04-22</birth_date>
+    <appointment_date>2025-09-11</appointment_date>
+    <doctor_name>Врач Русакова Г.Х.</doctor_name>
+    <conclusion>Острый бронхит, средней тяжести</conclusion>
+  </patient>
+  <patient>
+    <full_name>Шубина Ульяна Романовна</full_name>
+    <address>к. Кяхта, бул. Одесский, д. 48 стр. 887, 118712</address>
+    <birth_date>1963-06-07</birth_date>
+    <appointment_date>2025-08-30</appointment_date>
+    <doctor_name>Врач Сидорова М.И.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Прокл Александрович Комиссаров</full_name>
+    <address>к. Нязепетровск, бул. Жукова, д. 929 стр. 4, 575347</address>
+    <birth_date>1983-07-26</birth_date>
+    <appointment_date>2025-11-08</appointment_date>
+    <doctor_name>Врач Михеева Ю.Х.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Регина Юрьевна Тихонова</full_name>
+    <address>клх Тула, ул. Мелиоративная, д. 4, 778407</address>
+    <birth_date>1945-10-22</birth_date>
+    <appointment_date>2025-04-12</appointment_date>
+    <doctor_name>Врач Исаев Н.В.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Лариса Архиповна Большакова</full_name>
+    <address>клх Нефтекамск, ул. Вахитова, д. 568 к. 8/8, 713969</address>
+    <birth_date>1965-04-14</birth_date>
+    <appointment_date>2025-04-17</appointment_date>
+    <doctor_name>Врач Корнилова М.И.</doctor_name>
+    <conclusion>Острый бронхит, средней тяжести</conclusion>
+  </patient>
+  <patient>
+    <full_name>Мельников Федосий Тихонович</full_name>
+    <address>с. Волгодонск, пер. Хвойный, д. 80, 174767</address>
+    <birth_date>1959-07-12</birth_date>
+    <appointment_date>2026-01-19</appointment_date>
+    <doctor_name>Врач Быкова М.Ф.</doctor_name>
+    <conclusion>Острый бронхит, средней тяжести</conclusion>
+  </patient>
+  <patient>
+    <full_name>Валерия Робертовна Щербакова</full_name>
+    <address>к. Обоянь, пер. Совхозный, д. 55, 999188</address>
+    <birth_date>1950-12-08</birth_date>
+    <appointment_date>2025-05-19</appointment_date>
+    <doctor_name>Врач Шилов И.Ч.</doctor_name>
+    <conclusion>Здоров, противопоказаний нет</conclusion>
+  </patient>
+  <patient>
+    <full_name>Всеволод Евстигнеевич Никонов</full_name>
+    <address>клх Енисейск, ш. Дзержинского, д. 88 стр. 7, 429814</address>
+    <birth_date>2007-01-20</birth_date>
+    <appointment_date>2025-09-30</appointment_date>
+    <doctor_name>Врач Бурова П.В.</doctor_name>
+    <conclusion>Сахарный диабет 2 типа</conclusion>
+  </patient>
+  <patient>
+    <full_name>Николаева Наталья Вячеславовна</full_name>
+    <address>г. Лянтор, пер. Орловский, д. 73 стр. 9, 059511</address>
+    <birth_date>1971-11-22</birth_date>
+    <appointment_date>2025-06-16</appointment_date>
+    <doctor_name>Врач Шарапова К.И.</doctor_name>
+    <conclusion>Гастрит в стадии обострения</conclusion>
+  </patient>
+  <patient>
+    <full_name>Сергеев Добромысл Ильясович</full_name>
+    <address>ст. Биробиджан, бул. К.Маркса, д. 4 стр. 464, 075030</address>
+    <birth_date>1949-03-28</birth_date>
+    <appointment_date>2026-02-04</appointment_date>
+    <doctor_name>Врач Захарова П.И.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Любовь Натановна Дорофеева</full_name>
+    <address>п. Нефтекамск, ш. Морозова, д. 1, 404776</address>
+    <birth_date>2006-12-18</birth_date>
+    <appointment_date>2025-03-12</appointment_date>
+    <doctor_name>Врач Калинин А.Ф.</doctor_name>
+    <conclusion>Гастрит в стадии обострения</conclusion>
+  </patient>
+  <patient>
+    <full_name>Рожкова Фёкла Павловна</full_name>
+    <address>с. Долинск, алл. Дачная, д. 77 к. 55, 747354</address>
+    <birth_date>2000-10-20</birth_date>
+    <appointment_date>2025-10-05</appointment_date>
+    <doctor_name>Врач Моисеева В.А.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>г-жа Богданова Ирина Игоревна</full_name>
+    <address>г. Ямбург, ш. Береговое, д. 75 стр. 6, 018118</address>
+    <birth_date>1998-07-29</birth_date>
+    <appointment_date>2026-02-02</appointment_date>
+    <doctor_name>Врач Цветков И.А.</doctor_name>
+    <conclusion>Гастрит в стадии обострения</conclusion>
+  </patient>
+  <patient>
+    <full_name>Сафонова Евпраксия Валентиновна</full_name>
+    <address>ст. Оленек, ш. 9 мая, д. 4, 101824</address>
+    <birth_date>1991-02-26</birth_date>
+    <appointment_date>2025-03-28</appointment_date>
+    <doctor_name>Врач Воронцова Э.И.</doctor_name>
+    <conclusion>Сахарный диабет 2 типа</conclusion>
+  </patient>
+  <patient>
+    <full_name>Лука Филатович Быков</full_name>
+    <address>с. Бодайбо, ш. Специалистов, д. 6 стр. 6, 104037</address>
+    <birth_date>1946-09-24</birth_date>
+    <appointment_date>2026-01-11</appointment_date>
+    <doctor_name>Врач Ильин Я.Х.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>Герман Зиновьевич Козлов</full_name>
+    <address>с. Белгород, пер. Базарный, д. 245 стр. 73, 896306</address>
+    <birth_date>1965-08-31</birth_date>
+    <appointment_date>2026-02-08</appointment_date>
+    <doctor_name>Врач Логинова К.В.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>Коновалов Глеб Юльевич</full_name>
+    <address>г. Игнашино, пр. Проточный, д. 261 к. 7/3, 802616</address>
+    <birth_date>1960-10-24</birth_date>
+    <appointment_date>2025-04-15</appointment_date>
+    <doctor_name>Врач Сафонов В.Е.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Дроздов Куприян Харламович</full_name>
+    <address>с. Терскол, наб. Северная, д. 6/4 стр. 8/5, 831841</address>
+    <birth_date>1980-01-27</birth_date>
+    <appointment_date>2025-09-19</appointment_date>
+    <doctor_name>Врач Бирюков И.В.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Меркушев Изот Артёмович</full_name>
+    <address>клх Ессентуки, ш. Лесхозное, д. 2 стр. 4, 698037</address>
+    <birth_date>1942-04-25</birth_date>
+    <appointment_date>2026-01-23</appointment_date>
+    <doctor_name>Врач Осипов И.Е.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Любосмысл Ааронович Рыбаков</full_name>
+    <address>п. Новая Игирма, пр. Покровский, д. 7 к. 8/8, 339192</address>
+    <birth_date>1952-09-17</birth_date>
+    <appointment_date>2025-10-23</appointment_date>
+    <doctor_name>Врач Уварова Л.Г.</doctor_name>
+    <conclusion>Сахарный диабет 2 типа</conclusion>
+  </patient>
+  <patient>
+    <full_name>Давыд Федосеевич Орлов</full_name>
+    <address>клх Выборг, наб. Толбухина, д. 609 к. 70, 736775</address>
+    <birth_date>1952-11-29</birth_date>
+    <appointment_date>2026-01-12</appointment_date>
+    <doctor_name>Врач Кабанов Х.В.</doctor_name>
+    <conclusion>Здоров, противопоказаний нет</conclusion>
+  </patient>
+  <patient>
+    <full_name>Ия Рудольфовна Беспалова</full_name>
+    <address>с. Саров (Морд.), пр. Восточный, д. 45, 868500</address>
+    <birth_date>1951-11-29</birth_date>
+    <appointment_date>2025-09-28</appointment_date>
+    <doctor_name>Врач Суханова Д.Е.</doctor_name>
+    <conclusion>Гастрит в стадии обострения</conclusion>
+  </patient>
+  <patient>
+    <full_name>Мамонтов Никон Владленович</full_name>
+    <address>ст. Петухово, алл. Солнечная, д. 8 стр. 7, 192610</address>
+    <birth_date>1967-02-11</birth_date>
+    <appointment_date>2025-10-13</appointment_date>
+    <doctor_name>Врач Суханов Ф.Э.</doctor_name>
+    <conclusion>Сахарный диабет 2 типа</conclusion>
+  </patient>
+  <patient>
+    <full_name>Константинова Татьяна Владиславовна</full_name>
+    <address>п. Вытегра, бул. Первомайский, д. 8/8, 069299</address>
+    <birth_date>1991-04-13</birth_date>
+    <appointment_date>2025-12-07</appointment_date>
+    <doctor_name>Врач Дьячкова М.Т.</doctor_name>
+    <conclusion>Остеохондроз поясничного отдела</conclusion>
+  </patient>
+  <patient>
+    <full_name>Филиппов Игорь Марсович</full_name>
+    <address>п. Камышлов, пр. Проезжий, д. 4 стр. 5/7, 301245</address>
+    <birth_date>1973-12-14</birth_date>
+    <appointment_date>2025-07-14</appointment_date>
+    <doctor_name>Врач Коновалов Н.Ф.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Ольга Геннадьевна Колесникова</full_name>
+    <address>клх Данков, ул. Минина, д. 628 стр. 271, 878937</address>
+    <birth_date>1987-02-22</birth_date>
+    <appointment_date>2025-05-31</appointment_date>
+    <doctor_name>Врач Лаврентьев Ф.Д.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Никонов Ермолай Демьянович</full_name>
+    <address>п. Цимлянск, пер. Олимпийский, д. 1/6, 533762</address>
+    <birth_date>1984-05-31</birth_date>
+    <appointment_date>2025-05-12</appointment_date>
+    <doctor_name>Врач Дементьев П.Ф.</doctor_name>
+    <conclusion>Аллергический ринит</conclusion>
+  </patient>
+  <patient>
+    <full_name>Виноградов Сидор Арсеньевич</full_name>
+    <address>ст. Токма, пер. Менделеева, д. 9/1 стр. 319, 821090</address>
+    <birth_date>1972-01-09</birth_date>
+    <appointment_date>2025-03-24</appointment_date>
+    <doctor_name>Врач Алексеев К.В.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Белоусов Нифонт Харлампович</full_name>
+    <address>г. Верхний Баскунчак, наб. Пролетарская, д. 72 к. 5, 437759</address>
+    <birth_date>1997-11-10</birth_date>
+    <appointment_date>2026-02-25</appointment_date>
+    <doctor_name>Врач Костин К.Ф.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+  <patient>
+    <full_name>Корнилова Лариса Эльдаровна</full_name>
+    <address>д. Морозовск, пер. Союзный, д. 49 к. 627, 222066</address>
+    <birth_date>1995-06-15</birth_date>
+    <appointment_date>2025-06-26</appointment_date>
+    <doctor_name>Врач Комиссарова З.Г.</doctor_name>
+    <conclusion>Здоров, противопоказаний нет</conclusion>
+  </patient>
+  <patient>
+    <full_name>Рябова Ольга Семеновна</full_name>
+    <address>клх Шадринск, ул. Партизанская, д. 86 стр. 2/2, 692711</address>
+    <birth_date>2003-12-25</birth_date>
+    <appointment_date>2025-07-11</appointment_date>
+    <doctor_name>Врач Архипов Т.А.</doctor_name>
+    <conclusion>Сахарный диабет 2 типа</conclusion>
+  </patient>
+  <patient>
+    <full_name>Матвеев Панкратий Герасимович</full_name>
+    <address>клх Кижи, пер. Гражданский, д. 4, 111104</address>
+    <birth_date>1969-07-11</birth_date>
+    <appointment_date>2025-09-02</appointment_date>
+    <doctor_name>Врач Рябова А.Г.</doctor_name>
+    <conclusion>Мигрень с аурой</conclusion>
+  </patient>
+  <patient>
+    <full_name>Григорьев Богдан Давыдович</full_name>
+    <address>с. Вязьма, пер. Кутузова, д. 528 к. 696, 449249</address>
+    <birth_date>1941-03-22</birth_date>
+    <appointment_date>2026-02-16</appointment_date>
+    <doctor_name>Врач Белоусов Д.И.</doctor_name>
+    <conclusion>Гипертоническая болезнь 2 ст.</conclusion>
+  </patient>
+</patients>
