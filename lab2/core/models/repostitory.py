@@ -138,7 +138,7 @@ class PatientRepository:
             """
             if not search_query or not search_query.strip():
                 return False
-            search_words = search_query.lower().split()
+            search_words = search_query.lower().replace(',', ' ').replace('.', ' ').split()
             target_words = target_string.lower().replace(',', ' ').replace('.', ' ').split()
 
             return all(any(t_word.startswith(s_word) for t_word in target_words) for s_word in search_words)
